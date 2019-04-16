@@ -1,6 +1,9 @@
 # Airbnb-data-analysis
 ## Introduction 
-Inside Airbnb provides tools and public data that allows anyone to explore how Airbnb is really being used in cities around the world. In my analysis, I mainly focus on the city of San Francisco. There are three main topics I want to analyze and discuss, which are 1. Price 2. Review 3. Availability
+Inside Airbnb provides tools and public data that allows anyone to explore how Airbnb is really being used in cities around the world. In my analysis, I mainly focus on the city of San Francisco. There are three main topics I want to analyze and discuss, which are 
+1. Price 
+2. Review 
+3. Availability
 The three topics are closely related to if customers are willing to rent house from listings. Reasonable price, good review and certain availability rate would attract more customers to use Airbnb so that Airbnb will make more revenue. Here are several specific questions that I want to address through later analysis. 
 1.	How does price change over the neighborhoods of San Francisco? 
 2.	What factors are going to affect price? 
